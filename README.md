@@ -3,7 +3,7 @@
 - Designed and developed a comprehensive dashboard summarizing key business metrics including sales, customer demographics, and order status.
 - Utilized Excel to create visual representations such as bar charts, pie charts, and line graphs to highlight trends and insights.
   
-3. **Sales Analysis**:
+2. **Sales Analysis**:
  - Conducted a detailed analysis of monthly sales trends, identifying peak sales periods and potential areas for revenue growth.
  - Analyzed gender-specific sales data, uncovering that 64% of the sales were attributed to women, aiding in targeted marketing strategies.
 
